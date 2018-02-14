@@ -1,0 +1,25 @@
+{
+  "name": "ts-blank",
+  "version": "1.0.0",
+  "description": "Typescript blank workspace",
+  "main": "index.js",
+  "scripts": {
+    "start": "dist/index.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkasun/ts-blank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkasun/ts-blank/issues"
+  },
+  "homepage": "https://github.com/jkasun/ts-blank#readme",
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "typings": "^2.1.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "rules": {
+    "no-duplicate-variable": true,
+    "no-unused-variable": [
+      true
+    ],
+    "curly": true,
+    "deprecation": true,
+    "no-invalid-this": [
+      true
+    ],
+    "typeRoots": [
+      "../node_modules/@types"
+    ]
+  },
+  "rulesDirectory": [
+    "node_modules/tslint-eslint-rules/dist/rules"
+  ]
+}
