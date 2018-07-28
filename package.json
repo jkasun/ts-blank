@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/jkasun/ts-blank#readme",
   "devDependencies": {
-    "@types/node": "^9.4.6",
-    "typings": "^2.1.1"
+    "@types/node": "^9.4.6"
   }
 }
